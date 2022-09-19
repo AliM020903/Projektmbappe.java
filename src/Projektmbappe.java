@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class Projektmbappe {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
-        System.out.println("a værdien er = ");
-        double a = scan.nextDouble();
         System.out.println("b værdien er = ");
         double b = scan.nextDouble();
         System.out.println("x_0 værdien er = ");
